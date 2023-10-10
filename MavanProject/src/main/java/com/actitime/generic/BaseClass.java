@@ -21,7 +21,7 @@ import com.actitime.pom.LoginPage;
 import com.beust.jcommander.Parameter;
 
 public class BaseClass {
-//	public WebDriver driver;
+	public WebDriver driver;
 //
 //	@BeforeClass
 //	public void openBrowser() throws IOException {
