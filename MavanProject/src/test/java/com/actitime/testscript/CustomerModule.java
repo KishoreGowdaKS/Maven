@@ -12,7 +12,7 @@ import com.actitime.generic.FileLib;
 import com.actitime.pom.HomePage;
 import com.actitime.pom.TaskListPage;
 
-@Listeners(com.actitime.generic.ListenerImplimentation.class)
+//@Listeners(com.actitime.generic.ListenerImplimentation.class)
 public class CustomerModule extends BaseClass {
 	@Test
 	public void createCustomer() throws InterruptedException, EncryptedDocumentException, IOException {
